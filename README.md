@@ -6,10 +6,15 @@ The Explore Map app allows users to explore a map with different categories like
 
 **Features**
 **Main Screen:** Displays a Google Map with a title bar ("Explore Map").
+
 **Markers:** Display cycle, shopping, and restaurant markers on the map.
+
 **Zoom and Pan: **The user can zoom in, zoom out, and pan around the map.
+
 **Marker Filtering:** Toggle between "Cycle", "Shopping", and "Restaurant" categories using the Floating Action Button (FAB).
+
 **Marker Animations:** Markers bounce or animate when they are added to the map.
+
 **Interactive Markers:** Click a marker to display more details about the location (e.g., name, description, image).
 
 **Getting Started**
