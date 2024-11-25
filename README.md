@@ -9,7 +9,7 @@ The Explore Map app allows users to explore a map with different categories like
 
 **Markers:** Display cycle, shopping, and restaurant markers on the map.
 
-**Zoom and Pan: **The user can zoom in, zoom out, and pan around the map.
+**Zoom and Pan:** The user can zoom in, zoom out, and pan around the map.
 
 **Marker Filtering:** Toggle between "Cycle", "Shopping", and "Restaurant" categories using the Floating Action Button (FAB).
 
@@ -20,7 +20,9 @@ The Explore Map app allows users to explore a map with different categories like
 **Getting Started**
 **Prerequisites**
 **Flutter SDK:** You need to have the Flutter SDK installed on your system. If not, follow the official Flutter Installation Guide.
+
 **Android Studio or Visual Studio Code:** These IDEs will provide Flutter development support. You can download Android Studio from here.
+
 **Android Device/Emulator:** Either a physical Android device connected via USB or an Android Emulator running.
 
 **Install Dependencies**
