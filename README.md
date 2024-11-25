@@ -63,10 +63,14 @@ The app follows the BLoC (Business Logic Component) pattern for state management
 
 **MapBloc**
 Manages the state of the markers (including filtering by category) and updates the map UI.
+
 **Marker Details**
 When a marker is clicked, a bottom sheet is displayed with details about the marker (name, description, and optional image).
+
 **Key Flutter Packages Used**
 **google_maps_flutter:** To display the map and markers.
+
 **geolocator:** To get the user’s current location.
+
 **flutter_bloc:** For state management using BLoC.
  
